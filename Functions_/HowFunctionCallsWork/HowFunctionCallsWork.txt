@@ -1,0 +1,30 @@
+How Do Functioon Calls Work? 
+
+ 1-Functions use the `function call stack`
+    * Analogous to a stack of books
+    * LIFO - Last In First Out
+    * push and pop
+
+ 2-Stack Frame or Activation Record:
+    * Functions must return control to function that called it 
+    * Each time a function is called we create an new activation record and push it on stack
+    * When a function terminates we pop the activation record and return 
+    * Local variables and function parameters are allocated on the stack
+
+
+__ Stack Size if Finite - Stack OverFlow can occur
+
+
+
+NOTE : 
+    * if recursion doesn't eventually stop you will have infinite recursion
+
+    * Recursion can be resource intensive
+
+    * Remember the base case(s)
+        - it terminates the recursion
+
+    * Only use recursive solutions when it make sense
+
+    * Anything that can be done recursively can be done iteratively 
+        - Stack overflow error

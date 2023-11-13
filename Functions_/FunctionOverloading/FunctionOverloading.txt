@@ -1,0 +1,10 @@
+OverLoading Functions : 
+
+    * We can have functions that have different parameter lists that have the same name
+
+    * Abstraction mechanism since we can just think 'print' for example
+
+    * A type of polymorphism
+        - We can have the same name work with different data types to execute similar behavior 
+
+    * The comppiler must be able to tell the functions apart based on the parameter lists and argument supplied

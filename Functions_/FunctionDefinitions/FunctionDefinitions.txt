@@ -1,0 +1,6 @@
+Functions allow the modularization of a program :
+    * separate code into logical self-contained units
+    * These units can be reused
+
+
+    

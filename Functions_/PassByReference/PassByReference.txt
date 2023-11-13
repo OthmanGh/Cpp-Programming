@@ -1,0 +1,10 @@
+Pass By Reference : 
+    * Sometimes we want to be able to change the actual parameter from within the function body
+
+    * In order to achieve this we need the location or address of the actual parameter
+
+    * We saw how this is the effeect with array, but what about other variable types ? 
+
+    * We can use refernece paramters to tell the compiler to pass in a refernece to the actual parameter
+
+    * The formal paramter will now be an alias for the actual paramter

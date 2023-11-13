@@ -1,0 +1,13 @@
+Recursive Functions: 
+    * A recursive function is a function that calls itself 
+        - Either directly or indirectly through another function
+    
+    * Recursive problem solving
+        - Base case
+        - Divide the rest of problem into subproblem and do recursive call
+
+    * There are many problems thaht lend themselves to recursive solutions 
+
+    * Mathematic - factorial, Fibonacci, fractals
+
+    * Searching and Sorting - binary search, search trees..

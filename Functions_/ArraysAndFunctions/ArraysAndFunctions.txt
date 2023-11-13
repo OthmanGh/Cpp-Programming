@@ -1,0 +1,12 @@
+
+ Passing Arrays to Functions : 
+
+    * We can pass an array to a function by providing square brackets in the formal parameter description
+    
+        void print(int numbers[]);
+
+    * The array elements are NOT copied !!
+
+    * Since the array name evaluates to the location of the array in memory - this address is what is copied
+
+    * So the Function has no idea how many elements are in the array since all it knows is the location of the first element(the namem of the array)
